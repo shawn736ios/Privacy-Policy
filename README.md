@@ -4,9 +4,9 @@
 <p>Effective date: March 17, 2019</p>
 
 
-<p>shawn736.ios@gmail.com ("us", "we", or "our") operates the  mobile application (hereinafter referred to as the "Service").</p>
+<p>shawn736_ios@163.com ("us", "we", or "our") operates the  mobile application (hereinafter referred to as the "Service").</p>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for shawn736.ios@gmail.com  is created with the help of the <a href="https://privacypolicies.com/">Privacy Policies website</a>.</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for shawn736_ios@163.com  is created with the help of the <a href="https://privacypolicies.com/">Privacy Policies website</a>.</p>
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
@@ -99,5 +99,5 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: shawn736.ios@gmail.com</li>
+        <li>By email: shawn736_ios@163.com</li>
 </ul>
